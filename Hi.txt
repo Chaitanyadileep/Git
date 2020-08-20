@@ -1,3 +1,10 @@
 This is to pratice Git
 Git Practice
+
+To Practice Stash
+
+=======
 This is Cherry-pick Practice
+>>>>>>> a1a4698... Fourth Commit
+
+Ths is to Merge Practice
