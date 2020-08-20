@@ -6,5 +6,8 @@ To Practice Stash
 =======
 This is Cherry-pick Practice
 >>>>>>> a1a4698... Fourth Commit
+<<<<<<< HEAD
 
 Ths is to Merge Practice
+=======
+fedbe2897d8cae35f4add4f018ac02b50ff92086
